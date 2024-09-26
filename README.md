@@ -1,6 +1,7 @@
 # ComfyUI Art Venture (Updated)
 
-This repository is based on **[@sipherxyz](https://github.com/sipherxyz)**'s original **comfyui-art-venture** – 
+This repository is based on **[@sipherxyz](https://github.com/sipherxyz)**'s original **comfyui-art-venture** – https://github.com/sipherxyz/comfyui-art-venture
+
 The key update focuses on enhancing the `chat.py` file to integrate the latest language models from **OpenAI** (GPT-4O, O1) and **Anthropic** (Claude 3.5 Sonnet).
 
 ## What's New?
